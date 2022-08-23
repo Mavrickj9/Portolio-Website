@@ -1,0 +1,7 @@
+{
+    "javascript.preferences.importModuleSpecifierEnding": "minimal",
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.importModuleSpecifierEnding": "minimal",
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.preferences.includePackageJsonAutoImports": "on"
+}
