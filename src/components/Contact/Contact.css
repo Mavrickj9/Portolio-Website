@@ -40,7 +40,7 @@ textarea{
 
 @media  screen and (max-width: 480px){
     .contact-form{
-        height: 38em;
+        height: 36em;
         width: auto;
         padding: 2rem;
         flex-direction: column;
