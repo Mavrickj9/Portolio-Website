@@ -73,7 +73,7 @@ const Services = () => {
           <Cards
             emoji={Humble}
             heading={'UI/UX'}
-            detail={'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'}
+            detail={'User interface design and mockup services are included.'}
           />
         </motion.div>
         <div
